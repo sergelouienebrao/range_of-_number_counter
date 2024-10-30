@@ -1,6 +1,11 @@
 #range_of_number_counter
 
 #create variables
+numbers_1_10 = 0
+numbers_11_20 = 0
+numbers_21_30 = 0
+numbers_31_40 = 0
+numbers_41_50 = 0
 
 #create loop
 
