@@ -8,9 +8,10 @@ numbers_31_40 = 0
 numbers_41_50 = 0
 
 #create loop
+while True:
 
 #ask user for input
-
+    user_input = input("Please input a number ranging from 1 up to 50.: ")
 #check if input is valid
 
 #determine the range of the input 
