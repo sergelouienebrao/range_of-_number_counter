@@ -34,4 +34,9 @@ while True:
         break
 
 #print the inputs
-
+print("Summary of inputs by range: ")
+print("Numbers 1 - 10 =", range_1_10)
+print("Numbers 11 - 20 =", range_11_20)
+print("Numbers 21 - 30 =", range_21_30)
+print("Numbers 31 - 40 =", range_31_40)
+print("Numbers 41 - 50 =", range_41_50)
